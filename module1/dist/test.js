@@ -1,2 +1,4 @@
 "use strict";
-let name = "rioon";
+{
+    let name = "rioon";
+}
