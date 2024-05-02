@@ -1,1 +1,5 @@
-let a:number = 5;
+{
+
+    let a:number = 5;
+    
+}

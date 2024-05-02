@@ -1,1 +1,6 @@
-let name:string = "rioon";
+{
+
+    let name:string = "rioon";
+
+    
+}
